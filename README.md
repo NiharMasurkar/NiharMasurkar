@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NiharMasurkar
 - 👀 I’m interested in Robotics and Autonomous Systems 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... LIDAR based Object Detection
+- 💞️ I’m looking to collaborate on ... Bio-Inspired Robotics Projects, IoT Projects
+- 📫 How to reach me ... nmasurka@asu.edu
 
 <!---
 NiharMasurkar/NiharMasurkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
